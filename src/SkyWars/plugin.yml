@@ -1,7 +1,7 @@
 name: SkyWarsForPE
 main: larryTheCoder\SkyWarsAPI
 version: "1.9 Galaxy Edition"
-api: [2.0.0]
+api: [3.0.0]
 author: larryTheCoder
 commands:
   sw:
